@@ -48,12 +48,12 @@ body {
 .sneakers__img {
     border-radius: 5px;
     width: 472px;        
-    height: 646px;
+    height: auto;
 
 }
 
 .sneakers__page {
-    max-width: 700px;
+    max-width: 690px;
 }
 
 .sneakers__header {
@@ -81,7 +81,7 @@ body {
 
 .sneakers__info {
     max-width: 350px;
-    padding: 12px 24px;
+    padding: 15px 24px;
     display: flex;
     justify-content: space-between;
     background-color: #F3F4F6;
